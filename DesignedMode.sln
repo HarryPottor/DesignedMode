@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZZZ_SingleResponsibilityPri
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "State", "State\State.vcxproj", "{52E9D461-BC93-4458-B0F0-551787BFBC63}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Visiter", "Visiter\Visiter.vcxproj", "{61BAA3C3-6ABA-4E68-8532-302E3C1E6C54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{52E9D461-BC93-4458-B0F0-551787BFBC63}.Release|x64.Build.0 = Release|x64
 		{52E9D461-BC93-4458-B0F0-551787BFBC63}.Release|x86.ActiveCfg = Release|Win32
 		{52E9D461-BC93-4458-B0F0-551787BFBC63}.Release|x86.Build.0 = Release|Win32
+		{61BAA3C3-6ABA-4E68-8532-302E3C1E6C54}.Debug|x64.ActiveCfg = Debug|x64
+		{61BAA3C3-6ABA-4E68-8532-302E3C1E6C54}.Debug|x64.Build.0 = Debug|x64
+		{61BAA3C3-6ABA-4E68-8532-302E3C1E6C54}.Debug|x86.ActiveCfg = Debug|Win32
+		{61BAA3C3-6ABA-4E68-8532-302E3C1E6C54}.Debug|x86.Build.0 = Debug|Win32
+		{61BAA3C3-6ABA-4E68-8532-302E3C1E6C54}.Release|x64.ActiveCfg = Release|x64
+		{61BAA3C3-6ABA-4E68-8532-302E3C1E6C54}.Release|x64.Build.0 = Release|x64
+		{61BAA3C3-6ABA-4E68-8532-302E3C1E6C54}.Release|x86.ActiveCfg = Release|Win32
+		{61BAA3C3-6ABA-4E68-8532-302E3C1E6C54}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
